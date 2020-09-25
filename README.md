@@ -1,1 +1,7 @@
 # DSI_houseprice
+
+This repo contains the following files:   
+1. Webscaping code to extract features of listed houses on Property24 and SAHometraders, respectively, after using the search function on the site and with manual manipulation of the urls across all search result pages    
+2. Code to clean and merge the datasets from Property24 and SAHometraders   
+3. The output data file    
+4. A notebook in which data exploration, further manipulation and modelling was performed   
