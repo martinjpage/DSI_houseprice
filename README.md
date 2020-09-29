@@ -5,4 +5,4 @@ This repo contains the following files:
 2. Code to clean and merge the datasets from Property24 and SAHometraders   
 3. The output data file    
 4. A notebook in which data exploration, further manipulation and modelling was performed    
-5. Presentation of the project   
+5. The original presentation of the project and a refine version    
